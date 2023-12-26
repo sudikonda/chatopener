@@ -1,7 +1,7 @@
 {
   "name": "chat-opener",
   "version": "0.1.0",
-  "homepage": "https://{username}.github.io/{repo-name}",
+  "homepage": "https://sudikonda.github.io/chatopener/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
