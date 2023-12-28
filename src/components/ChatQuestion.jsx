@@ -28,9 +28,9 @@ const ChatQuestion = () => {
     };
 
     return (
-        <div className="d-flex flex-column justify-content-center align-items-center ">
+        <div className="d-flex flex-column justify-content-center align-items-center">
             <Form>
-                <InputGroup className="mb-3"  controlId="categorySelect">
+                <InputGroup className="category-buttons-container d-flex flex-row flex-nowrap overflow-auto mb-3">
                     {uniqueCategories.map((cat, index) => (
                         <Button
                             key={index}
